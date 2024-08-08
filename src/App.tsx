@@ -1,5 +1,7 @@
+import AdvicePreview from "./components/AdvicePreview";
+
 function App() {
-  return <h1>hello</h1>;
+  return <AdvicePreview />;
 }
 
 export default App;

@@ -1,6 +1,6 @@
 function AdvicePreview() {
   return (
-    <div>
+    <div className="bg-custNeutral-200">
       <span>Advice</span>
       <p>
         "It is easy to sit up and take notice. What's difficult is getting up

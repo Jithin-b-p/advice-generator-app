@@ -21,6 +21,5 @@
 }
 body {
   font-family: var(--ff-primary), var(--ff-default);
-
   background-color: hsl(var(--clr-neutral-300));
 }

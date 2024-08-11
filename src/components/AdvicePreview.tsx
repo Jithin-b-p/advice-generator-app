@@ -1,6 +1,6 @@
 function AdvicePreview() {
   return (
-    <div className="bg-custNeutral-200">
+    <div className="bg-custNeutral-200 max-w-[30rem] text-center flex flex-col items-center p-5 rounded-xl">
       <span>Advice</span>
       <p>
         "It is easy to sit up and take notice. What's difficult is getting up

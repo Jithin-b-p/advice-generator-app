@@ -9,6 +9,10 @@ export default {
           200: "hsl(var(--clr-neutral-200))",
           300: "hsl(var(--clr-neutral-300))",
         },
+
+        primary: {
+          lightCyan: "hsl(var(--clr-primary-light-cyan))",
+        },
       },
     },
   },

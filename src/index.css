@@ -20,6 +20,7 @@
   --clr-neutral-300: 218 23% 16%;
 
   --clr-primary-light-cyan: 193 38% 86%;
+  --clr-primary-neon: 150 100% 66%;
 }
 body {
   font-family: var(--ff-primary), var(--ff-default);

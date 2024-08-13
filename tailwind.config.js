@@ -12,6 +12,7 @@ export default {
 
         primary: {
           lightCyan: "hsl(var(--clr-primary-light-cyan))",
+          neonGreen: "hsl(var(--clr-primary-neon))",
         },
       },
     },

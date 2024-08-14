@@ -1,4 +1,9 @@
+import { useEffect, useState } from "react";
+
 function AdvicePreview() {
+  const [advice, setAdvice] = useState("");
+
+  useEffect(() => {}, []);
   return (
     <div className="bg-custNeutral-200 max-w-[25rem] text-center flex flex-col items-center p-5 rounded-xl">
       <span className="text-primary-neonGreen">Advice</span>

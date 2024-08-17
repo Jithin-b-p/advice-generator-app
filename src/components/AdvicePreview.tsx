@@ -11,7 +11,7 @@ function AdvicePreview() {
         "It is easy to sit up and take notice. What's difficult is getting up
         and taking action."
       </p>
-      <img src="/images/pattern-divider-desktop.svg" alt="" />
+      <img src="/images/pattern-divider-desktop.svg" alt="pattern" />
     </div>
   );
 }
